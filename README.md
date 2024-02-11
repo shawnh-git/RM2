@@ -1,1 +1,1 @@
-# RM2
+# Stuff for Remarkable 2
